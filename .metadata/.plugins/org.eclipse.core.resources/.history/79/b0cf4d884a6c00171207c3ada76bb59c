@@ -48,16 +48,11 @@
 		<version>4.2.0.RELEASE</version>
 	</dependency>
 	<dependency>
-		<groupId>commons-dbcp</groupId>
-		<artifactId>commons-dbpc</artifactId>
-		<version>1.4</version>
+  		<groupId>org.apache.commons</groupId>
+  		<artifactId>commons-dbcp2</artifactId>
+  		<version>2.2-SNAPSHOT</version>
 	</dependency>
-	<dependency>
-		<groupId>mysql</groupId>
-		<artifactId>mysql-connector-java</artifactId>
-		<version>5.1.36</version>
-	</dependency>
-	
+		
 	
   
   </dependencies>
