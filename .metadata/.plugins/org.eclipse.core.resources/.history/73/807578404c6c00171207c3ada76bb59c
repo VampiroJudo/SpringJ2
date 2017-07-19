@@ -53,10 +53,10 @@
 		<version>4.2.0.RELEASE</version>
 	</dependency>
 	<dependency>
-        <groupId>commons-dbcp</groupId>
-        <artifactId>commons-dbcp</artifactId>
-        <version>1.4</version>
-    </dependency>
+		<groupId>commons-dbcp</groupId>
+		<artifactId>commons-dbpc</artifactId>
+		<version>1.4</version>
+	</dependency>
 	<dependency>
 		<groupId>mysql</groupId>
 		<artifactId>mysql-connector-java</artifactId>

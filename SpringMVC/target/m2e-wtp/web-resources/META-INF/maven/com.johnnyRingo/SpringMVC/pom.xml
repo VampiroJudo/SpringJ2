@@ -8,6 +8,11 @@
   <name>SpringMVC Maven Webapp</name>
   <url>http://maven.apache.org</url>
   
+  	<properties>
+  		<java-version>1.7</java-version>
+  		<org.springframework-version>4.2.1.RELEASE</org.springframework-version>
+  	</properties>
+  
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
@@ -48,10 +53,10 @@
 		<version>4.2.0.RELEASE</version>
 	</dependency>
 	<dependency>
-		<groupId>commons-dbcp</groupId>
-		<artifactId>commons-dbpc</artifactId>
-		<version>1.4</version>
-	</dependency>
+        <groupId>commons-dbcp</groupId>
+        <artifactId>commons-dbcp</artifactId>
+        <version>1.4</version>
+    </dependency>
 	<dependency>
 		<groupId>mysql</groupId>
 		<artifactId>mysql-connector-java</artifactId>
@@ -67,11 +72,7 @@
 		<artifactId>gson</artifactId>
 		<version>2.3</version>
 	</dependency>
-	
-	
-	
-  
-  </dependencies>
+</dependencies>
   <build>
     <finalName>SpringMVC</finalName>
   </build>
