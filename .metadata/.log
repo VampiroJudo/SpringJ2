@@ -872,3 +872,36 @@ Binding(ALT+ARROW_UP,
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2017-07-19 02:21:46.967
 !MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2017-07-19 02:23:41.056
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-07-19 02:23:42.748
+!MESSAGE The POM for commons-dbcp:commons-dbpc:jar:1.4 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-07-19 02:23:43.548
+!MESSAGE The POM for commons-dbcp:commons-dbpc:jar:1.4 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2017-07-19 02:23:44.941
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-07-19 02:23:45.573
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-07-19 02:23:45.580
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-07-19 02:23:45.588
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-07-19 02:23:45.904
+!MESSAGE The POM for commons-dbcp:commons-dbpc:jar:1.4 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2017-07-19 02:23:45.913
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-07-19 02:23:46.075
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-07-19 02:23:46.108
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!

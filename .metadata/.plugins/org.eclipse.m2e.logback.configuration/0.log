@@ -313,3 +313,29 @@
 2017-07-19 02:21:46,965 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2017-07-19 02:21:46,966 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2017-07-19 02:21:46,967 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JohnnyRingo/Desktop/SpringJ2/SpringMVC/src/test/resources
+2017-07-19 02:23:41,055 [Worker-45] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-07-19 02:23:42,545 [Worker-45] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.johnnyRingo:SpringMVC:0.0.1-SNAPSHOT @ /Users/JohnnyRingo/Desktop/SpringJ2/SpringMVC/pom.xml.
+2017-07-19 02:23:42,747 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for commons-dbcp:commons-dbpc:jar:1.4 is missing, no dependency information available
+2017-07-19 02:23:42,950 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.9.10/jackson-mapper-asl-1.9.10.pom
+2017-07-19 02:23:42,972 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.9.10/jackson-mapper-asl-1.9.10.pom
+2017-07-19 02:23:42,992 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-core-asl/1.9.10/jackson-core-asl-1.9.10.pom
+2017-07-19 02:23:43,014 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-core-asl/1.9.10/jackson-core-asl-1.9.10.pom
+2017-07-19 02:23:43,090 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.9.10/jackson-mapper-asl-1.9.10.jar
+2017-07-19 02:23:43,247 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.9.10/jackson-mapper-asl-1.9.10.jar
+2017-07-19 02:23:43,269 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-core-asl/1.9.10/jackson-core-asl-1.9.10.jar
+2017-07-19 02:23:43,339 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-core-asl/1.9.10/jackson-core-asl-1.9.10.jar
+2017-07-19 02:23:43,547 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for commons-dbcp:commons-dbpc:jar:1.4 is missing, no dependency information available
+2017-07-19 02:23:44,940 [Worker-45] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-07-19 02:23:45,573 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-19 02:23:45,576 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-19 02:23:45,579 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-19 02:23:45,580 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JohnnyRingo/Desktop/SpringJ2/SpringMVC/src/test/resources
+2017-07-19 02:23:45,581 [Worker-45] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringMVC
+2017-07-19 02:23:45,581 [Worker-45] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringMVC
+2017-07-19 02:23:45,588 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-19 02:23:45,904 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for commons-dbcp:commons-dbpc:jar:1.4 is missing, no dependency information available
+2017-07-19 02:23:45,913 [Worker-45] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-07-19 02:23:46,075 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-19 02:23:46,104 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-19 02:23:46,108 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-19 02:23:46,154 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JohnnyRingo/Desktop/SpringJ2/SpringMVC/src/test/resources
