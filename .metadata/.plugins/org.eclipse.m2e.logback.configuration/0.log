@@ -436,3 +436,19 @@
 2017-07-23 16:01:00,402 [Worker-417] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2017-07-23 16:01:00,405 [Worker-417] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2017-07-23 16:01:00,420 [Worker-417] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JohnnyRingo/Desktop/SpringJ2/SpringMVC/src/test/resources
+2017-07-23 16:08:59,743 [Worker-423] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-23 16:08:59,744 [Worker-423] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-23 16:08:59,747 [Worker-423] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-23 16:08:59,747 [Worker-423] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JohnnyRingo/Desktop/SpringJ2/SpringMVC/src/test/resources
+2017-07-23 16:10:12,651 [Worker-423] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-23 16:10:12,651 [Worker-423] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-23 16:10:12,654 [Worker-423] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-23 16:10:12,654 [Worker-423] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JohnnyRingo/Desktop/SpringJ2/SpringMVC/src/test/resources
+2017-07-23 16:12:54,525 [Worker-424] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-23 16:12:54,526 [Worker-424] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-23 16:12:54,527 [Worker-424] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-23 16:12:54,528 [Worker-424] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JohnnyRingo/Desktop/SpringJ2/SpringMVC/src/test/resources
+2017-07-23 16:29:02,418 [Worker-437] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-23 16:29:02,422 [Worker-437] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-23 16:29:02,424 [Worker-437] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-23 16:29:02,424 [Worker-437] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JohnnyRingo/Desktop/SpringJ2/SpringMVC/src/test/resources
