@@ -1,0 +1,4 @@
+127.0.0.1 - - [26/Jul/2017:17:41:56 -0400] "GET / HTTP/1.1" 404 1070
+127.0.0.1 - - [26/Jul/2017:17:42:37 -0400] "GET / HTTP/1.1" 404 1070
+0:0:0:0:0:0:0:1 - - [26/Jul/2017:17:42:43 -0400] "GET /SpringMVC/WEB-INF/classes/com/controllers/UserController.java HTTP/1.1" 404 1131
+0:0:0:0:0:0:0:1 - - [26/Jul/2017:17:43:33 -0400] "GET /SpringMVC/WEB-INF/classes/com/controllers/UserController.java HTTP/1.1" 404 1131

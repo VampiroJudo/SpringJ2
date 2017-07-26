@@ -14,5 +14,4 @@ public class UserController {
 		ModelAndView view = new ModelAndView("hello");
 		return view;
 	}
-
 }
