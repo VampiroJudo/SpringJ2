@@ -1,0 +1,7 @@
+package com.entities;
+
+@Entity
+@Table(name="users")
+public class Users {
+
+}
