@@ -1,6 +1,5 @@
 package com.entities;
 
-import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GeneratedType;
@@ -18,10 +17,7 @@ public class Users {
 	@Column(name="user_id")
 	private int id;
 	
-	@Column(name="user_name")
 	private String userName;
-	
-	@Column(name="email")
 	private String email;
 	public int getId() {
 		return id;
